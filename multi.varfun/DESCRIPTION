@@ -1,0 +1,9 @@
+Package: multi.varfun
+Title: Runs multilevel variance function regression
+Version: 0.1.0.9000
+Authors@R: person("Christoph", "Spoerlein", email = "christoph.spoerlein@uni-bamberg.de", role = c("aut", "cre"))
+Description: Runs multilevel variance function regression.
+Depends: R (>= 3.1.1)
+Imports: lme4
+License: GPL-3
+LazyData: true
